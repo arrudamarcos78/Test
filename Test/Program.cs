@@ -11,6 +11,7 @@ namespace Test
 {
     internal class Program
     {
+        // multicast info (IP and port)
         private const string MulticastIP = "239.255.0.0";
         private const int MulticastPort = 31337;
 
